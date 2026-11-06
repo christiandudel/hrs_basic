@@ -1,4 +1,4 @@
-# Basic example using HRS data
+# Basic example HRS data
 
 Christian Dudel, dudel@demogr.mpg.de 
 
